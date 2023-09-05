@@ -12,5 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     int=5;
-    String nama="WILDA";
+
 }
